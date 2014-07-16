@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <hmtx>
+    <mtx name=".notdef" width="1229" lsb="193"/>
+    <mtx name="uni000D" width="1044" lsb="0"/>
+    <mtx name="uni00A0" width="532" lsb="0"/>
+    <mtx name="uni1700" width="2077" lsb="172"/>
+    <mtx name="uni1701" width="2071" lsb="66"/>
+    <mtx name="uni1702" width="1096" lsb="98"/>
+    <mtx name="uni1703" width="2015" lsb="104"/>
+    <mtx name="uni1704" width="1714" lsb="98"/>
+    <mtx name="uni1705" width="2071" lsb="106"/>
+    <mtx name="uni1706" width="1997" lsb="139"/>
+    <mtx name="uni1707" width="2146" lsb="104"/>
+    <mtx name="uni1708" width="1741" lsb="152"/>
+    <mtx name="uni1709" width="2191" lsb="119"/>
+    <mtx name="uni170A" width="1743" lsb="131"/>
+    <mtx name="uni170B" width="2109" lsb="119"/>
+    <mtx name="uni170C" width="2107" lsb="119"/>
+    <mtx name="uni170E" width="1870" lsb="57"/>
+    <mtx name="uni170F" width="1559" lsb="119"/>
+    <mtx name="uni1710" width="1888" lsb="39"/>
+    <mtx name="uni1711" width="2148" lsb="106"/>
+    <mtx name="uni1712" width="0" lsb="-451"/>
+    <mtx name="uni1713" width="0" lsb="-307"/>
+    <mtx name="uni1714" width="0" lsb="-692"/>
+    <mtx name="uni1735" width="674" lsb="37"/>
+    <mtx name="uni1736" width="999" lsb="37"/>
+    <mtx name="uniFEFF" width="0" lsb="0"/>
+  </hmtx>
+
+</ttFont>

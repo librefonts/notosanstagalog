@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0x1700" name="uni1700"/><!-- TAGALOG LETTER A -->
+      <map code="0x1701" name="uni1701"/><!-- TAGALOG LETTER I -->
+      <map code="0x1702" name="uni1702"/><!-- TAGALOG LETTER U -->
+      <map code="0x1703" name="uni1703"/><!-- TAGALOG LETTER KA -->
+      <map code="0x1704" name="uni1704"/><!-- TAGALOG LETTER GA -->
+      <map code="0x1705" name="uni1705"/><!-- TAGALOG LETTER NGA -->
+      <map code="0x1706" name="uni1706"/><!-- TAGALOG LETTER TA -->
+      <map code="0x1707" name="uni1707"/><!-- TAGALOG LETTER DA -->
+      <map code="0x1708" name="uni1708"/><!-- TAGALOG LETTER NA -->
+      <map code="0x1709" name="uni1709"/><!-- TAGALOG LETTER PA -->
+      <map code="0x170a" name="uni170A"/><!-- TAGALOG LETTER BA -->
+      <map code="0x170b" name="uni170B"/><!-- TAGALOG LETTER MA -->
+      <map code="0x170c" name="uni170C"/><!-- TAGALOG LETTER YA -->
+      <map code="0x170e" name="uni170E"/><!-- TAGALOG LETTER LA -->
+      <map code="0x170f" name="uni170F"/><!-- TAGALOG LETTER WA -->
+      <map code="0x1710" name="uni1710"/><!-- TAGALOG LETTER SA -->
+      <map code="0x1711" name="uni1711"/><!-- TAGALOG LETTER HA -->
+      <map code="0x1712" name="uni1712"/><!-- TAGALOG VOWEL SIGN I -->
+      <map code="0x1713" name="uni1713"/><!-- TAGALOG VOWEL SIGN U -->
+      <map code="0x1714" name="uni1714"/><!-- TAGALOG SIGN VIRAMA -->
+      <map code="0x1735" name="uni1735"/><!-- PHILIPPINE SINGLE PUNCTUATION -->
+      <map code="0x1736" name="uni1736"/><!-- PHILIPPINE DOUBLE PUNCTUATION -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

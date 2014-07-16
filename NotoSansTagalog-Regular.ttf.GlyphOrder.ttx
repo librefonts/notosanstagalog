@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GlyphOrder>
+    <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
+    <GlyphID id="0" name=".notdef"/>
+    <GlyphID id="1" name="uniFEFF"/>
+    <GlyphID id="2" name="uni000D"/>
+    <GlyphID id="3" name="uni00A0"/>
+    <GlyphID id="4" name="uni1700"/>
+    <GlyphID id="5" name="uni1701"/>
+    <GlyphID id="6" name="uni1702"/>
+    <GlyphID id="7" name="uni1703"/>
+    <GlyphID id="8" name="uni1704"/>
+    <GlyphID id="9" name="uni1705"/>
+    <GlyphID id="10" name="uni1706"/>
+    <GlyphID id="11" name="uni1707"/>
+    <GlyphID id="12" name="uni1708"/>
+    <GlyphID id="13" name="uni1709"/>
+    <GlyphID id="14" name="uni170A"/>
+    <GlyphID id="15" name="uni170B"/>
+    <GlyphID id="16" name="uni170C"/>
+    <GlyphID id="17" name="uni170E"/>
+    <GlyphID id="18" name="uni170F"/>
+    <GlyphID id="19" name="uni1710"/>
+    <GlyphID id="20" name="uni1711"/>
+    <GlyphID id="21" name="uni1712"/>
+    <GlyphID id="22" name="uni1713"/>
+    <GlyphID id="23" name="uni1714"/>
+    <GlyphID id="24" name="uni1735"/>
+    <GlyphID id="25" name="uni1736"/>
+  </GlyphOrder>
+
+</ttFont>
