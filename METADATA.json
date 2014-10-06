@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Tagalog",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 5335,
+  "fonts": [
+    {
+      "name": "Noto Sans Tagalog",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansTagalog-Regular.ttf",
+      "postScriptName": "NotoSansTagalog",
+      "fullName": "Noto Sans Tagalog",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
